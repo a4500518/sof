@@ -1,0 +1,27 @@
+Schedule
+	Weekly meetings:
+		1:30 - 3: Monday & Wednesday
+
+	April 1: Milestone 2:
+		- Detailed protocol documentation
+		- Detailed application architecture 
+	
+	April 8:
+		- Implement a chat program that does not handle any crash scenarios
+		- Implement election protocol
+		- Start developing for failure cases
+		- Work assignments for group members
+			- leader election
+			- crash detection
+			- message ordering
+
+	April 15:
+		- Non extra credit components finished:
+		- Assign extra credit to group members
+			- Message Priority (+10%)
+			- Fair Queuing (+10%)
+			- Encrypted chat messages (+5%)
+			- Advanced Election Criteria (+5%)
+	
+	April 21:
+		- Compile documentation
